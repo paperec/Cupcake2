@@ -10,13 +10,13 @@ import androidx.navigation.compose.ComposeNavigator
 import androidx.navigation.testing.TestNavHostController
 import com.example.cupcake.CupcakeApp
 import com.example.cupcake.CupcakeScreen
-import org.junit.Assert.assertEquals
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
 import java.text.SimpleDateFormat
 import java.util.Calendar
 import java.util.Locale
+import com.example.cupcake.R
 
 class CupcakeScreenNavigationTest {
 
